@@ -48,3 +48,5 @@ foreach(bench ${FAISS_PERF_TEST_SRC})
    ${PROJECT_SOURCE_DIR}/../..)
 
 endforeach()
+
+# Update: 2025-10-14
